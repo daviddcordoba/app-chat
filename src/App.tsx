@@ -4,7 +4,7 @@ import { AuthProvider, FirestoreProvider, StorageProvider, useFirebaseApp } from
 import { getFirestore } from 'firebase/firestore'
 import { getAuth } from 'firebase/auth'
 import { getStorage } from 'firebase/storage'
-import RootLayout from './layouts/root-layouts'
+import RootLayout from './layouts/root-layout'
 
 const App = () => {
 
